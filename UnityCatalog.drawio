@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T18:33:00.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hKOy0_e7IykiQiCSxSUO" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T18:58:47.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RmLuZbaEgRIUs1puVchh" version="23.0.1" type="github">
   <diagram name="Page-1" id="3pONTu677KfvnjduAxiZ">
     <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-5" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141.25" y="110" width="150" height="450" as="geometry" />
+          <mxGeometry x="141.25" y="100" width="150" height="580" as="geometry" />
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-3" value="bronze" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FFD700;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
           <mxGeometry x="570" y="219.9" width="40" height="50.1" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry x="545" y="420" width="108" height="322" as="geometry" />
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-31" value="Quiq Chat &lt;br&gt;Transcripts - Silver" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#808080;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
-          <mxGeometry x="545" y="555.45" width="40" height="51.1" as="geometry" />
+          <mxGeometry x="545" y="540.9000000000001" width="40" height="51.1" as="geometry" />
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-32" value="Customer (schema)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="500" width="130" height="30" as="geometry" />
