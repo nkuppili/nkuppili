@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T03:21:01.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DuvoSdqimTuRgmaHq9y3" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T03:21:55.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="S_Hlu6-IS89_fOMjIlg7" version="23.0.1" type="github">
   <diagram name="Page-1" id="3pONTu677KfvnjduAxiZ">
     <mxGraphModel dx="1154" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,10 +45,7 @@
         <mxCell id="abA9VttByAUSsHH8PQHx-21" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="545" y="250" width="108" height="322" as="geometry" />
         </mxCell>
-        <mxCell id="MzxG9glWLluSP522QYA4-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abA9VttByAUSsHH8PQHx-23" target="pvvucQbLz1xyliKZrhxP-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="abA9VttByAUSsHH8PQHx-23" value="Gold" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FFD700;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
+        <mxCell id="abA9VttByAUSsHH8PQHx-23" value="Gold (TBD)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FFD700;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
           <mxGeometry x="630" y="373" width="40" height="50.1" as="geometry" />
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-24" value="Flight Leg MV&lt;br&gt;Flight Ops MV" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#808080;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
