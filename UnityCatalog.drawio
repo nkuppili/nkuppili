@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T16:12:29.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9eUlxAM1bkqNKQp5aUhQ" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T03:21:01.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DuvoSdqimTuRgmaHq9y3" version="23.0.1" type="github">
   <diagram name="Page-1" id="3pONTu677KfvnjduAxiZ">
-    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1154" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="abA9VttByAUSsHH8PQHx-5" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="141.25" y="100" width="150" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="pvvucQbLz1xyliKZrhxP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abA9VttByAUSsHH8PQHx-3" target="abA9VttByAUSsHH8PQHx-28">
+        <mxCell id="pvvucQbLz1xyliKZrhxP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="abA9VttByAUSsHH8PQHx-3" target="abA9VttByAUSsHH8PQHx-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-3" value="bronze_flight_leg" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#964B00;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
@@ -45,7 +45,10 @@
         <mxCell id="abA9VttByAUSsHH8PQHx-21" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="545" y="250" width="108" height="322" as="geometry" />
         </mxCell>
-        <mxCell id="abA9VttByAUSsHH8PQHx-23" value="Gold" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#964B00;verticalAlign=top;strokeWidth=2;strokeColor=#FFD700;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
+        <mxCell id="MzxG9glWLluSP522QYA4-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="abA9VttByAUSsHH8PQHx-23" target="pvvucQbLz1xyliKZrhxP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="abA9VttByAUSsHH8PQHx-23" value="Gold" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FFD700;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
           <mxGeometry x="630" y="373" width="40" height="50.1" as="geometry" />
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-24" value="Flight Leg MV&lt;br&gt;Flight Ops MV" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#808080;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
@@ -75,16 +78,16 @@
         <mxCell id="abA9VttByAUSsHH8PQHx-28" value="Flight Ops (Schema)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="525" y="330" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pvvucQbLz1xyliKZrhxP-2" value="Bronze - WeatherTafs" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#964B00;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+        <mxCell id="pvvucQbLz1xyliKZrhxP-2" value="Bronze - WeatherTafs" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#964B00;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
           <mxGeometry x="655" y="540.0000000000001" width="40" height="51.1" as="geometry" />
         </mxCell>
-        <mxCell id="pvvucQbLz1xyliKZrhxP-4" value="DLT-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="pvvucQbLz1xyliKZrhxP-4" value="DLT-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="420" y="236.05" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pvvucQbLz1xyliKZrhxP-5" value="DLT-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="pvvucQbLz1xyliKZrhxP-5" value="DLT-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="420" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pvvucQbLz1xyliKZrhxP-6" value="DLT-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="pvvucQbLz1xyliKZrhxP-6" value="DLT-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="420" y="562" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
