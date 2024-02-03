@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T16:40:12.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bo6joo6dTf7zUzu8YWhr" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T16:40:41.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ReBRSLtYEv1_8MIdc6mk" version="23.0.1" type="github">
   <diagram name="Page-1" id="3pONTu677KfvnjduAxiZ">
     <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,9 +45,6 @@
         <mxCell id="abA9VttByAUSsHH8PQHx-21" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="545" y="250" width="108" height="322" as="geometry" />
         </mxCell>
-        <mxCell id="abA9VttByAUSsHH8PQHx-23" value="Gold (TBD)" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FFD700;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
-          <mxGeometry x="590" y="379.9" width="40" height="50.1" as="geometry" />
-        </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-24" value="Flight Leg MV&lt;br&gt;Flight Ops MV" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#808080;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
           <mxGeometry x="680" y="212" width="40" height="51.1" as="geometry" />
         </mxCell>
@@ -76,7 +73,7 @@
           <mxGeometry x="525" y="330" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pvvucQbLz1xyliKZrhxP-2" value="Bronze - WeatherTafs" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#964B00;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" parent="1" vertex="1">
-          <mxGeometry x="655" y="540.0000000000001" width="40" height="51.1" as="geometry" />
+          <mxGeometry x="574" y="378.9000000000001" width="40" height="51.1" as="geometry" />
         </mxCell>
         <mxCell id="pvvucQbLz1xyliKZrhxP-4" value="DLT-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="420" y="236.05" width="60" height="30" as="geometry" />
