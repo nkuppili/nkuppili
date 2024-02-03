@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T16:41:02.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nozhm0rcUHTkHITWsdrH" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T16:41:51.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="V9zqQKvkfNXFL9VRfuJR" version="23.0.1" type="github">
   <diagram name="Page-1" id="3pONTu677KfvnjduAxiZ">
     <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,10 +26,10 @@
           <mxGeometry x="190" y="170" width="52.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-7" value="nkodsstore01de" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;" parent="1" vertex="1">
-          <mxGeometry x="180" y="520" width="52.5" height="42" as="geometry" />
+          <mxGeometry x="180" y="560" width="52.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-15" value="Weather&lt;br&gt;Quiq" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="172.5" y="580" width="70" height="40" as="geometry" />
+          <mxGeometry x="172.5" y="592" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="abA9VttByAUSsHH8PQHx-16" value="Infare&lt;br&gt;Navitaire&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="400" width="70" height="40" as="geometry" />
@@ -89,6 +89,14 @@
         </mxCell>
         <mxCell id="NqjRXxUm5JFHJuSV3WzV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MzxG9glWLluSP522QYA4-3" target="abA9VttByAUSsHH8PQHx-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NqjRXxUm5JFHJuSV3WzV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="abA9VttByAUSsHH8PQHx-7" target="pvvucQbLz1xyliKZrhxP-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="581" />
+              <mxPoint x="320" y="416" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
