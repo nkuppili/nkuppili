@@ -1,55 +1,9 @@
-<mxfile modified="2024-02-05T22:54:27.224Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8IOc_tMHc0Gv6WeGZ0fp" version="23.1.1" type="github">
-  <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-02-16T17:00:21.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.1" etag="TJTLCJ7hVm1KSpB2HskW" type="github">
+  <diagram name="Page-1" id="eRAE_3KnIN3DBewye63u">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AcxdMaKK0mU5kZiv2lnr-4" value="NK Data Store" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="287" y="160" width="230" height="151" as="geometry" />
-        </mxCell>
-        <mxCell id="AcxdMaKK0mU5kZiv2lnr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;" parent="1" target="AcxdMaKK0mU5kZiv2lnr-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="220" y="224" />
-              <mxPoint x="220" y="224" />
-            </Array>
-            <mxPoint x="174" y="224" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l4zrqiYET4GiO1PtyqcD-2" value="PROC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AcxdMaKK0mU5kZiv2lnr-16">
-          <mxGeometry y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AcxdMaKK0mU5kZiv2lnr-17" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;strokeColor=#808080;" parent="1" source="AcxdMaKK0mU5kZiv2lnr-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="306" y="223" as="sourcePoint" />
-            <mxPoint x="376.9760000000001" y="223.36" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l4zrqiYET4GiO1PtyqcD-1" value="Navitaire" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="110" y="190" width="68" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="AcxdMaKK0mU5kZiv2lnr-9" value="Azure Blob&lt;br&gt;Storage&lt;br&gt;" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/BlobBlock.svg;" parent="1" vertex="1">
-          <mxGeometry x="371" y="202" width="62" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="l4zrqiYET4GiO1PtyqcD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="l4zrqiYET4GiO1PtyqcD-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="229" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l4zrqiYET4GiO1PtyqcD-6" value="Go Anywhere job" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEX///8AalYweGYAX0jP39sAYUsAZ1IAXUYAZE8AalUAYUoAY04AW0MAbFj2+vnp8e+ZubFTjYBwnpOBqZ+NsaikwLnO3to4f2/k7et0oZbw9vWRtKubu7OpxL2zy8XW4+BIiHm+0s0ATC4Zcl8jdmRbkYRll4sU9WT/AAAEx0lEQVR4nO2ca1fiMBRFiZUCpYKCIlYddHz8/5847eA4oj1p0ja5SdbZXymsG/a6fSU5kwkhhBBCCCGEEEIIIYQQQgghhBBCCCGEEEJIxDxKF+Ca/e+9dAmO2RQb6RLcss9UlrbEzVzNk5a4LpVS5Vq6DIfUClXSEtfFoh7hokhX4l2jsJZ4J12IK6pSHSkr6VIc8aEwXYnrqfpHop24nX+OcL6VLsYF1Uz9Z5ZiJ35RmKbEqlBfKdKTuF2ejHCZnMQqU6cUK+mSRuZ6+W2Ey2vpksZlVajvJCbxh8LUJK5+DrAeYkoSWxSmJbGlCxum6UhsVVhLvJcubCxWeesAlcpTkXg/BSOcpiIRDbAeonRp4wAV1iO8lC5uDGAXJtOJl1hhfeuWgsS5ZoD1o7B0ecN50CmsO/FBusDBLLQDVGohXeBQbvQKa4k30iUORHciPZJLlziMToXRS+zqwqYRo+7Em/bHplOKmCVeGDhUiwvpMvtj0IUNEXeikcKYJT6aKawlxrpQ6qX7Yngkf5EutR+PJifSI0WcEg27sCHOTrRQGKlE4y5siLETf32fTtOT/ZIu2BqkEDzyxycRKZyi+5zoJL62K8yvJlfgk1fpku1ACsvD5FC2f5Q9SxdtBVY4SUPiM1A4O68/PJ+1fxiVRKTw6e+nT/FL1CpMQuKZViGWeCZZtA1IYbn7OGAX++kUKbz9POI2bonPoM1mu89DduiQOCQiQbeWxwSLgcLIJXZ3YUPEEpHCbHdy2A5dMnfgd8PBVA467kmiaBuMG8yoXUPE/Epn1q/BgRS23K3Am9ewJdrccXbdvQaJhcLOJ5AwsXto0D9FBgm6yIH3aOhlTsASbR/eo5MIn93Rq1DNG7kwsX//onslFyDWCjWdGKZE9B5UNzd4EZNE+C5bNyERVScihfpJJTBFlb95qtqCA+jCQj+nhGaKA+xEoLBzhh7M9ocnEXVh5wQ9kliGFvLy1uNEegSdTt89VG3BHnShwWonNCk8C0siUGi0TgZ04jwoiXvUhSarDtEi1KA68b19hYXhUicVvkTYhWabKdCWjIA6ESg03kvR/u2AJO7R2hnT/TBIYjDBZxu0zsn4F8APhJKZtQYnUovNhWh/2yyMpB6o0HxvIdqjGIZE2IU2WwuRxCwEiXdAYWH1K+CqH0JmFuxCu33aaLNwABGESOHcbofvCv2MuMRjUOBPrPMS7ttzF+QjCGEX2m7SBtkZ4plZFejCHrklIDxDOoJwCxT2yJ5pzbARl1iBM2Cv6BkkcSopcYuK6hOVsEJ/l6DEKgMn0n7pQeD/WmRy0RKjKgxRIuzCvhXBf0yqE0cvaPS/bCDoGj2gHnTxEUqvA2f3xYAIrxW6BxQJPkPnhfztcN6XA3izLBN8hi7QKs/6g/YsSkhEjzuOsHwYGwNNvpUL/AefoS50N0TfEj0r9B98po0oc4Pn4DNtRJkbPEu02Ws/FnavJwcioNCzRP9d2OAxbqkjZc4VHtPrZBR6DD4TUuhRIlhZ4B5fIS+G+VYu8BR8ZpGsMzZ+JBqlzLnCS/CZoEI/Eo0jytzgIfgMLJb0hcFyzoE8ZrksmWuJZ+IEvgOTEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghifMHsF9H77dEYd4AAAAASUVORK5CYII=;" vertex="1" parent="1">
-          <mxGeometry x="620" y="147" width="55" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="l4zrqiYET4GiO1PtyqcD-7" value="DHS SFTP&lt;br&gt;Location" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png" vertex="1" parent="1">
-          <mxGeometry x="750" y="200" width="58" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="l4zrqiYET4GiO1PtyqcD-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="160" width="42" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="l4zrqiYET4GiO1PtyqcD-10" value="730 am" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
-          <mxGeometry x="220" y="258" width="27" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
